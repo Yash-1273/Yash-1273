@@ -80,32 +80,19 @@
 
 ---
 
-## 🎯 Current Focus
-
-```python
-class YashDalal:
-    def __init__(self):
-        self.username = "Yash-1273"
-        self.role = "AI & Data Science Enthusiast | Full Stack Developer"
-        self.learning = ["Data Science", "AI/ML", "DSA in C++", "Full Stack Development"]
-        self.interests = ["Artificial Intelligence", "Machine Learning", "Web Development"]
-        self.collaboration = ["Python Projects", "AI Applications", "Open Source"]
-    
-    def get_current_goals(self):
-        return [
-            "Master Data Structures & Algorithms",
-            "Build end-to-end ML projects",
-            "Contribute to open-source AI projects",
-            "Develop full-stack applications"
-        ]
-```
-
----
-
-## 🏆 Achievements & Certifications
+## 🏆 Certifications
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash-1273&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
+</p>
+
+<p align="center">
+  <img src="https://images.nvidia.com/aem-dam/Solutions/geforce/news/gfecnt/nvidia-logo-vert-rgb-blk-for-screen.png" width="120" alt="NVIDIA Logo"/>
+</p>
+
+### 🎓 Getting Started with Accelerated Computing in Modern CUDA C++
+<p align="center">
+  <i>Certified by NVIDIA</i>
 </p>
 
 ---
